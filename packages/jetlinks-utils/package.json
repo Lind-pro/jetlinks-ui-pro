@@ -1,0 +1,37 @@
+{
+  "name": "jetlinks-utils",
+  "version": "0.0.0",
+  "description": "jetlinks-utils",
+  "keywords": [
+    "jetlinks"
+  ],
+  "author": "lind <448929489@qq.com>",
+  "homepage": "http://index.ts",
+  "license": "ISC",
+  "main": "index.ts",
+  "directories": {
+    "src": "src",
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib",
+    "src"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npm.taobao.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lind-pro/jetlinks-ui-pro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/Lind-pro/jetlinks-ui-pro/issues"
+  },
+  "dependencies": {
+    "jetlinks-start": "^0.0.0"
+  }
+}

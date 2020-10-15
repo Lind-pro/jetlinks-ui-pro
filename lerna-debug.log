@@ -1,0 +1,16 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   scope: 'start/ant-design-pro',
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '3.22.1',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'packages/jetlinks-utils'
+0 silly argv }
+1 notice cli v3.22.1
+2 verbose rootPath /Users/lind/Documents/WebstormProjects/jetlinks-ui-pro
+3 error Error: exited with error code: 128
+3 error     at ChildProcess.<anonymous> (/Users/lind/Documents/WebstormProjects/jetlinks-ui-pro/node_modules/@evocateur/pacote/lib/util/finished.js:12:19)
+3 error     at ChildProcess.emit (events.js:314:20)
+3 error     at maybeClose (internal/child_process.js:1051:16)
+3 error     at Socket.<anonymous> (internal/child_process.js:442:11)
+3 error     at Socket.emit (events.js:314:20)

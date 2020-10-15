@@ -1,0 +1,20 @@
+{
+  "name": "jetlinks-ui",
+  "version": "2.0.0",
+  "description": "jetlinks-ui-pro",
+  "main": "index.js",
+  "repository": "git@github.com:Lind-pro/jetlinks-ui-pro.git",
+  "author": "lind <448929489@qq.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+      "dev:example": "lerna run dev --stream & lerna run start"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "lerna": "^3.22.1"
+  }
+}
